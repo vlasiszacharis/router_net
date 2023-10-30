@@ -7,7 +7,8 @@ function Home() {
     <>
     <div className='home'>
          <Link to='/'>Home</Link>
-         
+         <Link to="/about">About</Link>
+
     </div>
     </>
   )
